@@ -10,6 +10,10 @@ This application was made by creating our API, using Ruby on Rails, containing s
 - SCSS 
 - SQL
 
+## Live Demo
+
+[Tesla-Booking](https://www.loom.com/share/525b7c8d3f7c4d4f941e20a34b5cccd3)
+
 ## Screenshots:
   ### Login
   ![image](https://user-images.githubusercontent.com/42799579/199345103-4c72224f-8a4b-4650-a15d-584b4c8ed9c4.png)
