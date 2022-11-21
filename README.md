@@ -16,13 +16,23 @@ This application was made by creating our API, using Ruby on Rails, containing s
 
 ## Screenshots:
   ### Login
-  ![image](https://user-images.githubusercontent.com/42799579/199345103-4c72224f-8a4b-4650-a15d-584b4c8ed9c4.png)
+  - ![image](https://user-images.githubusercontent.com/58642949/203177358-407e9c25-ed98-4f22-8253-a77d41514057.png)
   ### Navbar
-  ![image](https://user-images.githubusercontent.com/42799579/199346064-29e04774-0c50-4cf9-91b4-7a2fa59643a8.png)
+  - ![image](https://user-images.githubusercontent.com/42799579/199346064-29e04774-0c50-4cf9-91b4-7a2fa59643a8.png)
   ### Homepage
-  ![image](https://user-images.githubusercontent.com/42799579/199345950-47fb39b9-b4a6-4216-b47b-ee99abbc6ab3.png)
+  - ![image](https://user-images.githubusercontent.com/42799579/199345950-47fb39b9-b4a6-4216-b47b-ee99abbc6ab3.png)
+  - ![image](https://user-images.githubusercontent.com/58642949/203178020-35c28e89-2cdd-4082-ab95-b2f938e272d5.png)
   ### Tesla details
-  ![image](https://user-images.githubusercontent.com/42799579/199346557-3303a89b-5346-4a3c-b79a-da1f301fee3a.png)
+  - ![image](https://user-images.githubusercontent.com/42799579/199346557-3303a89b-5346-4a3c-b79a-da1f301fee3a.png)
+  - ![image](https://user-images.githubusercontent.com/58642949/203178138-fa2500d5-a7b0-463d-b3d2-8210f0cc20f9.png)
+  ### Reserve page
+  - ![image](https://user-images.githubusercontent.com/58642949/203178235-c11105ab-ba7b-44b8-9205-03b48413d715.png)
+  ### Reservations page
+  - ![image](https://user-images.githubusercontent.com/58642949/203178331-94939681-0926-4651-9887-16fd12828853.png)
+  ### Add page
+  - ![image](https://user-images.githubusercontent.com/58642949/203178395-72673b3b-26c7-47af-ab63-56c32a1f39e1.png)
+  ### Delete page
+  - ![image](https://user-images.githubusercontent.com/58642949/203178466-7db060fc-0c59-4203-a4ea-27313d12d77a.png)
   
 ## Kanban Board
 [Link to project's Kanban Board](https://github.com/users/Draxeytina/projects/4)
